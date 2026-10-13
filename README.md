@@ -19,10 +19,10 @@ If, elif, and else statements
 For and while loops
 Functions
 Match-case statements
-How to Run
+How to Run :
 Open attendance_system.py in Python 3.10 or newer.
 Run the program.
 Choose an option from the menu.
-Limitation
+Limitation:
 
 Attendance records are stored temporarily and reset when the program restarts.
